@@ -1,4 +1,4 @@
-<h1 align="center">Supports iOS 14.0 - 15.4.1, for now. As soon as TrollStore is available for iOS 16.6+, I will look into updating.</h1>
+<h1 align="center">Now that TrollStore is out for iOS 16+, this is now in developement for iOS 16+.</h1>
 <br/>
 <br/>
 <br/>
